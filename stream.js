@@ -69,14 +69,3 @@ function take(stream,n){
     return ret;
 }
 
-/* infinite seqences
-function fibgen(a,b){
-    return cons_stream(a, function () {
-        return fibgen(b,a+b);
-    });
-}
-
-var fibs = fibgen(0,1);
-*/
-
-
