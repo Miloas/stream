@@ -1,6 +1,6 @@
 ## Stream
 
-Stream still a dirty hack toy, inspired by <sicp>.
+Stream still a dirty hack toy, inspired by sicp.
 It implemented a lazy seq, and some method for it, like map , filter ...
 
 ## Power
